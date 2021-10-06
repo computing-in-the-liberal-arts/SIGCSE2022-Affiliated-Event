@@ -6,7 +6,7 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [SIGCSE 2021 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/)
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
 
-_<Short Description from proposal goes here.>_
+_Short Description from proposal goes here._
 
 ## Event Information
 
@@ -14,7 +14,7 @@ _<Short Description from proposal goes here.>_
 - [Call for Participation](CallForParticipation.md)
 - [Event Agenda](#event-agenda)
 
-_<Add additional info here as it is available.>_
+_Add additional info here as it is available._
 
 <!--
 Links from the 2021 event.
@@ -24,7 +24,7 @@ Links from the 2021 event.
 
 ## Important Dates
 
-_<Add dates for the 2022 event.>_
+_Add dates for the 2022 event._
 
 <!--  
 - Monday January 11, 2021 - Submissions Due
@@ -36,11 +36,11 @@ _<Add dates for the 2022 event.>_
 
 ## Event Agenda
 
-_<To be determined.>_
+_To be determined._
 
 ## Organizers
 
-_<Add Organizers for 2022 event.>_
+_Add Organizers for 2022 event._
 
 <!--
 These are from 2021.
@@ -53,7 +53,7 @@ These are from 2021.
 
 ## Program Committee
 
-_<Add the 2022 program committee.>_
+_Add the 2022 program committee._
 
 <!--
 These are from 2021 event

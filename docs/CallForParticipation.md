@@ -7,7 +7,8 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
 
 The program committee invites submissions for the following sessions:
-_<Add topics for the 2022 event.>_
+
+_Add topics for the 2022 event._
 
 <!--
 This is from 2021
@@ -28,7 +29,7 @@ We anticipate being able to invite everyone who expresses interest. However, in 
 
 ## Important Dates:
 
-_<Add 2022 submission and event dates.>_
+_Add 2022 submission and event dates._
 
 <!--
 These are from 2021
@@ -43,8 +44,9 @@ These are from 2021
 
 The program committee invites three types of submissions for the pre-symposium event. Participants are welcome to make multiple submissions.
 
-_<List of sessions, descriptions and submission templates go here.>_
-_<Also update the directories listed in the GitHub Pull request instructions below.>_
+_List of sessions, descriptions and submission templates go here._
+
+_Also update the directories listed in the GitHub Pull request instructions below._
 
 <!--
 These were the 2021 sessions.
@@ -102,7 +104,8 @@ The Program Committee intends to collaborate with interested authors from each s
 
 ## Tentative Event Agenda
 
-_<Add the the 2022 agenda>_
+_Add the the 2022 agenda_
+
 <!--
 This is the 2021 information.
 
@@ -119,7 +122,7 @@ The event will run for two half days in the week prior to the SIGCSE TS. Dates a
 
 ## Organizers
 
-_<Add the 2022 organizers>_
+_Add the 2022 organizers_
 
 <!--
 These were the 2021 organizers.
@@ -133,7 +136,7 @@ These were the 2021 organizers.
 
 ## Program Committee
 
-_<Add the 2022 program committee.>_
+_Add the 2022 program committee._
 
 <!--
 This was the 2021 committee.
