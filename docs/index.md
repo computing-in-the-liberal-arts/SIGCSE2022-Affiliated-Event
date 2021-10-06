@@ -1,6 +1,6 @@
 # Innovations and Opportunities in<br>Liberal Arts Computing Education
 
-A [SIGCSE 2022](https://sigcse2022.sigcse.org) affiliated event organized by members of the SIGCSE Committee on Computing Education in Liberal Arts Colleges.
+A [SIGCSE 2022](https://sigcse2022.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
 This event builds on directions and priorities identified at our prior SIGCSE events:
 - [SIGCSE 2021 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/)
