@@ -2,13 +2,18 @@
 
 This is a [SIGCSE 2022](https://sigcse2022.sigcse.org) affiliated event organized by members of the [SIGCSE Committee on Computing Education in Liberal Arts Colleges](https://computing-in-the-liberal-arts.github.io/computing-in-the-liberal-arts/).
 
-This event builds on priorities identified at our [SIGCSE 2021 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/), and the program committee invites submissions for the following sessions:
+This event builds on directions and priorities identified at our prior SIGCSE events:
+- [SIGCSE 2021 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/)
+- [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
 
+The program committee invites submissions for the following sessions:
 _<Replace with topics for the 2022 event.>_
-
+<!--
+This is from 2021
   * __Curricular Models:__ Descriptions of curricular innovations that support uniquely liberal arts approaches to computing.
   * __CS+X Courses:__ Descriptions of “CS+X” courses, outcomes, and best practices for CS+X in a liberal arts context.
   * __Recruiting:__ Models for mentoring, recruiting and hiring PhD candidates and postdocs into computer science positions at liberal arts institutions.
+-->
 
 We also welcome those that would like to attend and participate in this event, but do not have a submission for one of the above sessions.
 
@@ -18,19 +23,30 @@ All submissions will be lightly screened by the program committee for suitabilit
 
 A template for submission or description of requested information is provided for each session, as well as a contact for questions or email submissions. All submissions may be made through email or GitHub pull request following the process described in the section below. Submissions to multiple sessions are welcome.
 
-We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our (virtual) venue cannot accommodate everyone, attendees will be selected giving first priority to those contributing to one of the three sessions and then reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
+We anticipate being able to invite everyone who expresses interest. However, in the unlikely event that our venue cannot accommodate everyone, attendees will be selected giving first priority to those contributing to one of the three sessions and then reviewing attendance applications to achieve representation from a broad range of institutions. All interested faculty and students are welcome.
 
 ## Important Dates:
 
+_<Add 2022 submission and event dates.>_
+
+<!--
+These are from 2021
 - Monday January 11, 2021 - Submissions Due
 - Monday January 25, 2021 - Notifications of acceptances, breakout topics and lead panelist invitations.
 - Event Dates:
   - Day One: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
   - Day Two: Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
+-->
 
 ## Call for Participation:
 
 The program committee invites three types of submissions for the pre-symposium event. Participants are welcome to make multiple submissions.
+
+_<List of sessions, descriptions and submission templates go here.>_
+_<Also update the directories listed in the GitHub Pull request instructions below.>_
+
+<!--
+These were the 2021 sessions.
 
 1. __Curricular Model Submissions:​__ A brief (approximately 2-page) description of the curricular model of your liberal arts computing program.
 
@@ -60,6 +76,7 @@ The program committee invites three types of submissions for the pre-symposium e
     * Templates:
       * Markdown: [Recruiting Submission Template](recruiting/RecruitingTemplate.md)
       * MS Word: [Recruiting Submission Template](recruiting/RecruitingTemplate.dotx)
+-->
 
 ## Submission Process:
 
@@ -71,7 +88,7 @@ Submissions may be made in one of two ways:
   1. If you wish to make more than one submission, please submit a separate zip file for each submission.
 
 - __GitHub Pull Request__: If you are comfortable with git and GitHub submissions may be made via GitHub pull requests.
-    1. Fork the Computing in the Liberal Arts [SICSE2021 Pre-Symposium Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2021-PreSymposium-Event).
+    1. Fork the Computing in the Liberal Arts [SICSE2022 Affiliated Event Repository](https://github.com/computing-in-the-liberal-arts/SIGCSE2022-Affiliated-Event).
     1. Create a branch for your submission.
     1. Add a sub-directory for your submission to the appropriate directory (_curricula_, _cs+x_, or _recruiting_).
     1. Populate your sub-directory with the materials for your submission.  Please use a file named `index.md` for the text of your submission and copy any images or other supporting materials into your sub-directory. Format your submission using the appropriate markdown template from above.
@@ -84,6 +101,10 @@ The Program Committee intends to collaborate with interested authors from each s
 
 ## Tentative Event Agenda
 
+_<Add the the 2022 agenda>_
+<!--
+This is the 2021 information.
+
 The event will run for two half days in the week prior to the SIGCSE TS. Dates and times will be announced as soon as they are finalized with the SIGCSE TS Committee.
 
 - Day One: Monday March 8, 2021, 1:00pm EST - 4:30pm EST
@@ -93,15 +114,28 @@ The event will run for two half days in the week prior to the SIGCSE TS. Dates a
 - Day Two: Tuesday March 9, 2021, 1:00pm EST - 4:30pm EST
   - CS+X Courses in Liberal Arts Computing
   - Mentoring, Recruiting, and Hiring for Liberal Arts Computing Positions
+-->
 
 ## Organizers
+
+_<Add the 2022 organizers>_
+
+<!--
+These were the 2021 organizers.
+
 - Amanda Holland-Minkley, Washington & Jefferson College
 - Janet Davis, Whitman College
 - Mario Nakazawa, Berea College
 - Andrea Tartaro, Furman University
 - Jim Teresco, Siena College
+-->
 
 ## Program Committee
+
+_<Add the 2022 program committee.>_
+
+<!--
+This was the 2021 committee.
 
 - Curricular Models:
   - Douglas Baldwin, SUNY Geneseo
@@ -118,6 +152,6 @@ The event will run for two half days in the week prior to the SIGCSE TS. Dates a
 - Mentoring, Recruiting and Hiring:
   - Janet Davis, Whitman College
   - Andrea Tartaro, Furman University
-
+-->
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
