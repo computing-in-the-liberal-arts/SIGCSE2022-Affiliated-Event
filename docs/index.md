@@ -14,7 +14,7 @@ _<Short Description from proposal goes here.>_
 - [Call for Participation](CallForParticipation.md)
 - [Event Agenda](#event-agenda)
 
-- _<Add additional info here as it is available.>_
+_<Add additional info here as it is available.>_
 
 <!--
 Links from the 2021 event.
@@ -36,7 +36,7 @@ _<Add dates for the 2022 event.>_
 
 ## Event Agenda
 
-- _<To be determined.>_
+_<To be determined.>_
 
 ## Organizers
 

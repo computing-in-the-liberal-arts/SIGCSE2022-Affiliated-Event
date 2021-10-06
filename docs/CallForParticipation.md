@@ -7,7 +7,8 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
 
 The program committee invites submissions for the following sessions:
-_<Replace with topics for the 2022 event.>_
+_<Add topics for the 2022 event.>_
+
 <!--
 This is from 2021
   * __Curricular Models:__ Descriptions of curricular innovations that support uniquely liberal arts approaches to computing.
