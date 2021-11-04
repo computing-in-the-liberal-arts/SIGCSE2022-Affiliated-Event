@@ -19,8 +19,9 @@
 
       <header>
         <!--<h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>-->
-        <h1>{{ default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <h1>{{ default: site.title }}</h1>
+        <!--<p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>-->
+        {{ default: site.description }}
       </header>
 
       <div id="banner">
