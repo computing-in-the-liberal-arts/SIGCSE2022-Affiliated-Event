@@ -7,8 +7,8 @@ This event builds on directions and priorities identified at our prior SIGCSE ev
 - [SIGCSE 2020 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/)
 
 The program committee invites submissions for the following sessions:
-* __Curricular Innovations:__ A panel discussion and breakout sessions around curricular innovations that support uniquely liberal arts approaches to computing.
-* __Unconfrence:__ An unconference session focused on topics broadly connected to computing in a liberal arts context.
+* __Curricular Innovations:__ A panel discussion of curricular innovations that support uniquely liberal arts approaches to computing. Panelists will be selected from submissions. The panel will be followed by breakout sessions centered around submitted curricular innovations. Breakout sessions will be led by panelists and program committee members.
+* __Unconference:__ Unconferences are built around sessions proposed by event participants. Sessions can take many forms, but interaction and discussion should be prioritized. While sessions can focus on information sharing, they should have sufficient focus that some desired outcome, conclusion, repository of best practices, or other product results. Sessions can also follow a more structured workshop format intended to teach participants or demonstrate a technique. For this event, session proposals will be selected from submissions and distributed to participants.
 
 All submissions will be lightly screened by the program committee for suitability. All suitable submissions will be made available to the community through this site and all authors of accepted submissions will receive an invitation to participate in the event.
 
@@ -33,21 +33,24 @@ _Tentative date ranges will be replaced as plans develop._
 
 The program committee invites the two types of submissions shown below for sessions at the pre-symposium event. Participants are welcome to submit to both sessions or to make multiple submissions to a single session.  Each  submission type provides a template indicating the information requested in a submission. In addition a program committee contact for each type of submission is provided should questions arise. All submissions may be made through email or GitHub pull request following the process described in the Submission Process section below.
 
-1. __Curricular Innovation Submissions:​__ Brief (1 to 2-page) description of a curricular innovations that reflect a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts focused educational initiatives. The program committee will select a sample for presentation during the event. Submissions describing innovations that leverage particular opportunities or challenges presented by the liberal arts context, show potential for adoption, or broadening participation are particularly encouraged.
+1. __Curricular Innovation Submissions:​__ A brief (1 to 2-page) description of a curricular innovation that reflects a specifically liberal arts philosophy. This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal-arts focused educational initiatives. Please see the template below and the samples. The program committee will select a sample for presentation during the event. Submissions describing innovations that leverage particular opportunities or challenges presented by the liberal arts context, show potential for adoption, or broadening participation are particularly encouraged.
 
    * Submission Templates:
      * Markdown: [Curricular Innovation Template](curricula/CurricularInnovationTemplate.md)
-     * MS Word: _Coming Soon_
+     * MS Word: [Curricular Innovation Template](curricula/CurricularInnovationTemplate.docx)
 
-   * Program Committee Contact: TBA
+   * Program Committee Contact: _TBA_
 
-1. __Unconfrence Topic Submissions:__  Brief (2-page) description of the topic proposed for discussion, intended format for the session, and desired outcomes or products. The program committee will select topics for inclusion at the event. Submissions will be reviewed for their relevance to the intended audience as well as breadth of topic across the event as a whole. The program committee may recommend some submitters merge topics if overlapping submissions are received.
+1. __Unconference Topic Submissions:__ A brief (approximately 2-page) description of the topic proposed for discussion, intended format for the session, and desired outcomes or products. The Unconference session has been scheduled to run for three hours, with a half-hour break in the middle. Please see the template below and the samples. Submissions will be reviewed for their relevance to the intended audience as well as breadth of topic across the event as a whole. The program committee may recommend that some submitters merge topics if overlapping submissions are received.
 
    * Submission Templates:
-     * Markdown: _Coming Soon_
-     * MS Word: _Coming Soon_
+     * Markdown: [Unconference Template](unconference/UnconferenceTemplate.md)
+     * MS Word: [Unconference Template](unconference/UnconferenceTemplate.docx)
 
-   * Program Committee Contact: TBA
+   * Sample Submission:
+     * [Cross-Listing Courses](unconference/CrossListing/CrossListing.md)
+
+   * Program Committee Contact: _TBA_
 
 ## Submission Process
 
