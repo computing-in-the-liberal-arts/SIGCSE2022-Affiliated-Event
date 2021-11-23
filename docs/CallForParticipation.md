@@ -48,7 +48,7 @@ The program committee invites the two types of submissions shown below for sessi
      * MS Word: [Unconference Template](unconference/UnconferenceTemplate.docx)
 
    * Sample Submission:
-     * [Cross-Listing Courses](unconference/CrossListing/CrossListing.md)
+     * [Cross-Listing Courses](unconference/CrossListing/index.md)
 
    * Program Committee Contact: _TBA_
 
