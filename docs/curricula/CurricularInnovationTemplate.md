@@ -20,7 +20,11 @@ _Please limit your contribution to about two pages, or 700-1000 words._
 
 _Provide a narrative description of your innovation._
 
-_This may include full curriculum models, individual courses, outreach programs, co-curricular programs, or other interdisciplinary or liberal arts focused educational initiatives. Submissions describing innovations that leverage particular opportunities or challenges presented by the liberal arts context, show potential for adoption, or for broadening participation are encouraged._
+_This may include full curriculum models, individual courses, outreach programs,
+co-curricular programs, or other interdisciplinary or liberal arts focused
+educational initiatives. Submissions describing innovations that leverage
+particular opportunities or challenges presented by the liberal arts context,
+show potential for adoption, or for broadening participation are encouraged._
 
 ## Challenges/Limitations
 
