@@ -1,4 +1,4 @@
-<pre>
+```
 # _Curricluar Innovation Title_
 
 ## _Institution Name_
@@ -31,4 +31,4 @@ show potential for adoption, or for broadening participation are encouraged._
 _Describe any challenges or limitations:_
   - _you are facing in using or implementing your innovation._
   - _that others would face in adopting your innovation._
-<pre>
+```
