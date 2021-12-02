@@ -40,7 +40,7 @@ The program committee invites the two types of submissions shown below for sessi
      * MS Word: [Curricular Innovation Template](curricula/CurricularInnovationTemplate.docx)
 
    * Sample Submission:
-     * [Humanitarian Open Source software](curricula/OpenSource/index.md)
+     * [Humanitarian Open Source Software](curricula/OpenSource/index.md)
 
    * Program Committee Contact: _TBA_
 
