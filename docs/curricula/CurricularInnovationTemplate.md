@@ -1,3 +1,4 @@
+<pre>
 # _Curricluar Innovation Title_
 
 ## _Institution Name_
@@ -26,3 +27,4 @@ _This may include full curriculum models, individual courses, outreach programs,
 _Describe any challenges or limitations:_
   - _you are facing in using or implementing your innovation._
   - _that others would face in adopting your innovation._
+</pre>
