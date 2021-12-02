@@ -39,6 +39,9 @@ The program committee invites the two types of submissions shown below for sessi
      * Markdown: [Curricular Innovation Template](curricula/CurricularInnovationTemplate.md)
      * MS Word: [Curricular Innovation Template](curricula/CurricularInnovationTemplate.docx)
 
+   * Sample Submission:
+     * [Humanitarian Open Source software](curricula/OpenSource/index.md)
+
    * Program Committee Contact: _TBA_
 
 1. __Unconference Topic Submissions:__ A brief (approximately 2-page) description of the topic proposed for discussion, intended format for the session, and desired outcomes or products. The Unconference session has been scheduled to run for three hours, with a half-hour break in the middle. Please see the template below and the samples. Submissions will be reviewed for their relevance to the intended audience as well as breadth of topic across the event as a whole. The program committee may recommend that some submitters merge topics if overlapping submissions are received.
