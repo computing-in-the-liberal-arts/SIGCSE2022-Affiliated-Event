@@ -20,12 +20,10 @@ All attendees, whether making a submission or not, must also be registered for t
 
 ## Important Dates
 
-_Tentative date ranges will be replaced as plans develop._
-
 | Category                  | Date
 |---------------------------|-----------------------
-| Submissions Due           | TBA - _Tentatively Early January 2022_
-| Notifications             | TBA - _Tentatively Mid/late January 2022_
+| Submissions Due           | January 18, 2022
+| Notifications             | January 28, 2022
 | Pre-Event Virtual Session | TBA - _Tentatively Early February 2022_
 | Event Date                | Wednesday March 2, 2022, 8:30am-5:00pm EST
 
@@ -54,7 +52,8 @@ The program committee invites the two types of submissions shown below for sessi
    * Sample Submission:
      * [Cross-Listing Courses](unconference/CrossListing/index.md)
 
-   * Program Committee Contact: _TBA_
+   * Program Committee Contact:
+     * Mario Nakazawa (<nakazawam@berea.edu>)
 
 ## Submission Process
 

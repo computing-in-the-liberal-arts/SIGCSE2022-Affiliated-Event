@@ -12,11 +12,9 @@ This Pre-Symposium event will promote connection and collaboration within the li
 
 - [SIGCSE 2022](https://sigcse2022.sigcse.org)
 - [Event Proposal](SIGCSE-2022-CSLA.pdf)
-- [Call for Participation](CallForParticipation.md) - __Pending SIGCSE Acceptance__
+- [Call for Participation](CallForParticipation.md)
 - [Event Agenda](#event-agenda)
 - Resulting Materials (coming soon)
-
-_Add additional info will appear here as it is available._
 
 <!--
 Links from the 2021 event.
@@ -25,12 +23,10 @@ Links from the 2021 event.
 
 ## Important Dates
 
-_Tentative date ranges will be replaced as plans develop._
-
 | Category                  | Date
 |---------------------------|-----------------------
-| Submissions Due           | TBA - _Tentatively Early January 2022_
-| Notifications             | TBA - _Tentatively Mid/late January 2022_
+| Submissions Due           | January 18, 2022
+| Notifications             | January 28, 2022
 | Pre-Event Virtual Session | TBA - _Tentatively Early February 2022_
 | Event Date                | Wednesday March 2, 2022, 8:30am-5:00pm EST
 
