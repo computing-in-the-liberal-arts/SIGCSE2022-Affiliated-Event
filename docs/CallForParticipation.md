@@ -20,12 +20,12 @@ All attendees, whether making a submission or not, must also be registered for t
 
 ## Important Dates
 
-| Category                  | Date
-|---------------------------|-----------------------
-| Submissions Due           | January 18, 2022
-| Notifications             | January 28, 2022
-| Pre-Event Virtual Session | TBA - _Tentatively Early February 2022_
-| Event Date                | Wednesday March 2, 2022, 8:30am-5:00pm EST
+| Category                           | Date
+|------------------------------------|-----------------------
+| Submissions Due                    | January 18, 2022
+| Notifications                      | January 28, 2022
+| Optional Pre-Event Virtual Session | TBA - _Tentatively Early February 2022_
+| In-Person Event at SIGCSE          | Wednesday March 2, 2022, 8:30am-5:00pm EST
 
 ## Call for Participation
 

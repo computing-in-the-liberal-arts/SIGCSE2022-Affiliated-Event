@@ -23,12 +23,12 @@ Links from the 2021 event.
 
 ## Important Dates
 
-| Category                  | Date
-|---------------------------|-----------------------
-| Submissions Due           | January 18, 2022
-| Notifications             | January 28, 2022
-| Pre-Event Virtual Session | TBA - _Tentatively Early February 2022_
-| Event Date                | Wednesday March 2, 2022, 8:30am-5:00pm EST
+| Category                           | Date
+|------------------------------------|-----------------------
+| Submissions Due                    | January 18, 2022
+| Notifications                      | January 28, 2022
+| Optional Pre-Event Virtual Session | TBA - _Tentatively Early February 2022_
+| In-Person Event at SIGCSE          | Wednesday March 2, 2022, 8:30am-5:00pm EST
 
 ## Event Agenda
 
