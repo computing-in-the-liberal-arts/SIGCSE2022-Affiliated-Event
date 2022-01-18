@@ -3,8 +3,6 @@
 ## The University of Baltimore
 Contributed by Giovanni Vincenti, gvincenti@ubalt.edu
 
-_Please limit your contribution to about two pages, or 700-1000 words._
-
 ## Institutional and departmental context
 - Location: Baltimore, MD 21201 USA
 - Undergraduate student body size: 1650 students (Fall 2021)
