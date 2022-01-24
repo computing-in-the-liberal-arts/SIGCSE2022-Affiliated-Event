@@ -4,9 +4,9 @@ An affiliated event at [SIGCSE 2022](https://sigcse2022.sigcse.org) organized by
 
 ## Event Agenda
 
-##### Wednesday, March 2nd, 2022 8:30 AM - 5:00 PM EST
-##### Rhode Island Convention Center
-##### Room _TBA_
+- **Wednesday, March 2nd, 2022 8:30 AM - 5:00 PM EST**
+- Rhode Island Convention Center
+- Room _TBA_
 
 | Time        | Activity
 |-------------|----------
@@ -19,6 +19,10 @@ An affiliated event at [SIGCSE 2022](https://sigcse2022.sigcse.org) organized by
 | 2:00-4:30   | [Unconference sessions](#unconference-sessions)
 | 4:30-5:00   | [Optional business meeting](#business-meeting)
 | Evening     | Optional dinner groups
+
+Event organizers will collect links to content created in each session and add them to the [Resulting materials page](materials.md).
+
+## Session Details
 
 ### Curricular Innovations panel
 
@@ -36,8 +40,6 @@ A list of proposed unconference sessions is available on the [Resulting Material
 
 Selected sessions will gather and session leaders will follow their provided plan for
 An announcement will be made encouraging groups to take a break at the midpoint of the session, but individual sessions will have flexibility to divide up this time in the manner that best suits their topic and intended collaboration.
-
-Event organizers will collect links to content created in each session and add them to the event website.
 
 ### Business meeting
 
