@@ -1,6 +1,7 @@
 # ACM/IEEE CS202X Model Curriculum
 
 Contributed by Amanda Holland-Minkley, Washington & Jefferson College
+
 Additional contributors (if any): Jim Teresco, Siena College
 
 ## Brief summary of topic
