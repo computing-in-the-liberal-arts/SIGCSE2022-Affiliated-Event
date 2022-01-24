@@ -28,9 +28,9 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
       - Christian Murphy - Bryn Mawr College
     - [Cross-listing courses to engage multiple departments](unconference/CrossListing/index.md)
       - Mario Nakazawa - Berea College
-    - [Teaching Ethics, Law, and Society in the Digital Age](unconfrence/ethics/index.md)
+    - [Teaching Ethics, Law, and Society in the Digital Age](unconference/ethics/index.md)
       - Andrea Tartaro, Furman University
-    - [ACM/IEEE CS202X Model Curriculum](unconfrence/cs202xCurriculum/index.md)
+    - [ACM/IEEE CS202X Model Curriculum](unconference/cs202xCurriculum/index.md)
       - Amanda Holland-Minkley, Washington & Jefferson College
       - Jim Teresco, Siena College
 
