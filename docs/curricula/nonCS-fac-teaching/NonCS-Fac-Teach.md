@@ -1,13 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # _Helping Non-CS Faculty Teach Core CS Concepts_
 
 ## _Mount Holyoke College, Colby College, Union College_
