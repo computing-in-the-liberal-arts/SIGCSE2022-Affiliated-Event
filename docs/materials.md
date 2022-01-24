@@ -28,6 +28,9 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
       - Christian Murphy - Bryn Mawr College
     - [Cross-listing courses to engage multiple departments](unconference/CrossListing/index.md)
       - Mario Nakazawa - Berea College
+    - [Teaching Ethics, Law, and Society in the Digital Age](unconfrence/ethics/index.md)
+      - Andrea Tartaro, Furman University
+
 
   - ### Unconfrence Sessions
     - Topics and session notes will be posted after the event.
