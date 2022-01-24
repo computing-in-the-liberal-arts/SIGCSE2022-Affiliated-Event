@@ -10,37 +10,43 @@ This Pre-Symposium event will promote connection and collaboration within the li
 
 ## Event Information
 
+- [Registration Link](https://washjeff.qualtrics.com/jfe/form/SV_a62rLLcaoUgVbb8)
+  - This event will be held in person. Attendees must register for the SIGCSE Technical Symposium and using the link above. There is no additional fee for this event.
+
+- [Detailed Event Agenda](eventAgenda.md)
+- [Resulting Materials](materials.md)
+
 - [SIGCSE 2022](https://sigcse2022.sigcse.org)
 - [Event Proposal](SIGCSE-2022-CSLA.pdf)
 - [Call for Participation](CallForParticipation.md)
-- [Event Agenda](#event-agenda)
-- [Resulting Materials](materials.md)
 
 ## Important Dates
 
-| Category                           | Date
-|------------------------------------|-----------------------
-| Submissions Due                    | January 18, 2022
-| Notifications                      | January 28, 2022
-| Optional Pre-Event Virtual Session | TBA - _Tentatively Early February 2022_
-| In-Person Event at SIGCSE          | Wednesday March 2, 2022, 8:30am-5:00pm EST
+| Category                            | Date
+|-------------------------------------|-----------------------
+| Submissions Due                     | January 18, 2022
+| Notifications                       | January 28, 2022
+| In-Person Event at SIGCSE           | Wednesday March 2, 2022, 8:30am-5:00pm EST
+| Post-Event Hybrid Session\*\*       | April 1, 2022
+
+\*\* A hybrid follow-up event building on the sessions at SIGCSE will be held on Friday, April 1st in connection with the Consortium for Computing Sciences in Colleges
+Northeast Region Confrence [CCSC-NE](http://ccscne.org/conferences/ccscne-2022/).  Attendees need not have registered for the Technical Symposium to participate in the hybrid event. Details about time and registration process will be posted in early March.
 
 ## Event Agenda
 
-The agenda below is tentative and will be further developed as submissions are reviewed.
-
 | Time        | Activity
 |-------------|----------
-| 8:30-8:45   | Introductions
+| 8:30-8:45   | Welcome and Opening Remarks
 | 8:45-9:30   | Curricular Innovations panel
 | 9:30-10:00  | Break
 | 10:00-12:00 | Curricular Innovations breakout sessions
 | 12:00-1:30  | Lunch break on your own
-| 1:30-2:45   | Unconference sessions
-| 2:45-3:15   | Break
-| 3:15-4:30   | Unconference sessions
+| 1:30-2:00   | Selection of Unconference sessions
+| 2:00-4:30   | Unconference sessions
 | 4:30-5:00   | Optional business meeting
 | Evening     | Optional dinner groups
+
+A [more detailed event agenda](eventAgenda.md) is also avaialble.
 
 ## Organizers
 

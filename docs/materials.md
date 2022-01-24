@@ -2,7 +2,7 @@
 
 This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-PreSymposium-Event/).  Some are materials that were submitted for review prior to the event, others were presented at the event, while others were generated collaboratively and dynamically during the event by participants.  In particular, the session notes are unedited documents produced by participants live during presentation, discussion and breakout sessions.
 
-- ## Curricular Innovations (March 2, 2022, 8:30-12:00)
+- ## Curricular Innovations
 
   - ### Submitted Materials
     - [New Directions in Computing: Arts and Computing in NYC](curricula/NewDirections/SIGCSE_2022_Hwang_Santolucito.md)
@@ -21,7 +21,7 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
   - ### Breakout Sessions
     - Session Notes - Will be posted after the event.
 
-- ## Unconfrence (March 2, 2022, 1:30-4:30)
+- ## Unconfrence
 
   - ### Proposed Topics
     - [Supporting Computer Science Student Mental Health](unconference/studentMentalHealth/Murphy-StudentMentalHealth.md) [[docx](unconference/studentMentalHealth/Murphy-StudentMentalHealth.docx)]
