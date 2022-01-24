@@ -5,13 +5,13 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
 - ## Curricular Innovations (March 2, 2022, 8:30-12:00)
 
   - ### Submitted Materials
-    - [New Directions in Computing: Arts and Computing in NYC](curricula/NewDirections/SIGCSE_2022_Hwang_Scntolucito.md)
+    - [New Directions in Computing: Arts and Computing in NYC](curricula/NewDirections/SIGCSE_2022_Hwang_Santolucito.md)
       - Maria Hwang - Fachion Institute of Technology (FIT)
       - Mark Santolucito - Barnard College
     - [The Doane University Institute for Computing](curricula/iolace/iolace-ci-meysenburg.md)
       - Alec Engebreston - Doane University
       - Mark Meysenburg - Doane University
-    - [Helping Non-CS Faculty Teach Core CS Concepts](curicula/nonCS-fac-teaching/NonCS-Fac-Teach.md)
+    - [Helping Non-CS Faculty Teach Core CS Concepts](curricula/nonCS-fac-teaching/NonCS-Fac-Teach.md)
       - Valerie Barr - Mount Holyoke College, Colby College, Union College
     - [Integrating Open Challenges in the Undergraduate Curriculum](curricula/openchallenges/index.md)
       - Giovanni Vincenti - The University of Baltimore
@@ -24,9 +24,9 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
 - ## Unconfrence (March 2, 2022, 1:30-4:30)
 
   - ### Proposed Topics
-    - [Supporting Computer Science Student Mental Health](unconfrence/studentMentalHealth/Murphy-StudentMentalHealth.md) [[docx](unconfrence/studentMentalHealth/Murphy-StudentMentalHealth.docx)]
+    - [Supporting Computer Science Student Mental Health](unconference/studentMentalHealth/Murphy-StudentMentalHealth.md) [[docx](unconference/studentMentalHealth/Murphy-StudentMentalHealth.docx)]
       - Christian Murphy - Bryn Mawr College
-    - [Cross-listing courses to engage multiple departments](unconfrence/CrossListing/index.md)
+    - [Cross-listing courses to engage multiple departments](unconference/CrossListing/index.md)
       - Mario Nakazawa - Berea College
 
   - ### Unconfrence Sessions
