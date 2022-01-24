@@ -14,12 +14,7 @@ This Pre-Symposium event will promote connection and collaboration within the li
 - [Event Proposal](SIGCSE-2022-CSLA.pdf)
 - [Call for Participation](CallForParticipation.md)
 - [Event Agenda](#event-agenda)
-- Resulting Materials (coming soon)
-
-<!--
-Links from the 2021 event.
 - [Resulting Materials](materials.md)
--->
 
 ## Important Dates
 
