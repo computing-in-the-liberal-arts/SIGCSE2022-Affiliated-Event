@@ -30,7 +30,9 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
       - Mario Nakazawa - Berea College
     - [Teaching Ethics, Law, and Society in the Digital Age](unconfrence/ethics/index.md)
       - Andrea Tartaro, Furman University
-
+    - [ACM/IEEE CS202X Model Curriculum](unconfrence/cs202xCurriculum/index.md)
+      - Amanda Holland-Minkley, Washington & Jefferson College
+      - Jim Teresco, Siena College
 
   - ### Unconfrence Sessions
     - Topics and session notes will be posted after the event.
