@@ -11,14 +11,16 @@ An affiliated event at [SIGCSE 2022](https://sigcse2022.sigcse.org) organized by
 | Time        | Activity
 |-------------|----------
 | 8:30-8:45   | Welcome and Opening Remarks
-| 8:45-9:30   | [Curricular Innovations panel](#curricular-innovations-panel)
+| 8:45-9:30   | Curricular Innovations panel
 | 9:30-10:00  | Break
-| 10:00-12:00 | [Curricular Innovations breakout sessions](#curricluar-innovations-breakout-sessions)
+| 10:00-12:00 | Curricular Innovations breakout sessions
 | 12:00-1:30  | Lunch break on your own
-| 1:30-2:00   | [Selection of Unconference sessions](#selection-of-unconference-sessions)
-| 2:00-4:30   | [Unconference sessions](#unconference-sessions)
-| 4:30-5:00   | [Optional business meeting](#business-meeting)
+| 1:30-2:00   | Selection of Unconference sessions
+| 2:00-4:30   | Unconference sessions
+| 4:30-5:00   | Optional business meeting
 | Evening     | Optional dinner groups
+
+Additional details on specific sessions are given below.
 
 Event organizers will collect links to content created in each session and add them to the [Resulting materials page](materials.md).
 
