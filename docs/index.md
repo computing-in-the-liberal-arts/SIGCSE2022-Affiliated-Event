@@ -30,7 +30,7 @@ This Pre-Symposium event will promote connection and collaboration within the li
 | Post-Event Hybrid Session\*\*       | April 1, 2022
 
 \*\* A hybrid follow-up event building on the sessions at SIGCSE will be held on Friday, April 1st in connection with the Consortium for Computing Sciences in Colleges
-Northeast Region Conference [CCSC-NE](http://ccscne.org/conferences/ccscne-2022/).  There is no fee for this event and attendees need not have registered for the SIGCSE Technical Symposium nor the CCSC-NE conference in order to participate in the hybrid event. Details about time and registration process will be posted in early March.
+Northeast Region Conference [CCSC-NE](http://ccscne.org/conferences/ccscne-2022/).  Attendees need not have registered for or participated in the Affiliated Event at the SIGCSE Technical Symposium. Details about the time and registration process for the hybrid session will be posted in early March.
 
 ## Event Agenda
 
