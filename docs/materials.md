@@ -21,7 +21,7 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
   - ### Breakout Sessions
     - Session Notes - Will be posted after the event.
 
-- ## Unconfrence
+- ## Unconference
 
   - ### Proposed Topics
     - [Supporting Computer Science Student Mental Health](unconference/studentMentalHealth/Murphy-StudentMentalHealth.md) [[docx](unconference/studentMentalHealth/Murphy-StudentMentalHealth.docx)]
@@ -34,7 +34,7 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
       - Amanda Holland-Minkley, Washington & Jefferson College
       - Jim Teresco, Siena College
 
-  - ### Unconfrence Sessions
+  - ### Unconference Sessions
     - Topics and session notes will be posted after the event.
 
   ___
