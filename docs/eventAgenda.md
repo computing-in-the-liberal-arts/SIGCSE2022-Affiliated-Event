@@ -28,11 +28,11 @@ Event organizers will collect links to content created in each session and add t
 
 ### Curricular Innovations panel
 
-Panelists and topics will be posted following acceptance notifiations.
+Panelists and topics will be posted following acceptance notifications.
 
-### Curricluar Innovations breakout sessions
+### Curricular Innovations breakout sessions
 
-Breakout sessions will begin by being organized around the topics presented by the panelists. However, discussions in each session will provide opportunites for discussion and ideation of ongoing or potential innovations at the participants' institutions.
+Breakout sessions will begin by being organized around the topics presented by the panelists. However, discussions in each session will provide opportunities for discussion and ideation of ongoing or potential innovations at the participants' institutions.
 
 ### Selection of Unconference sessions
 
@@ -40,7 +40,7 @@ A list of proposed unconference sessions is available on the [Resulting Material
 
 ### Unconference sessions
 
-Selected sessions will gather and session leaders will follow their provided plan for
+Selected sessions will gather and session leaders will follow their provided plan for the allotted time.
 An announcement will be made encouraging groups to take a break at the midpoint of the session, but individual sessions will have flexibility to divide up this time in the manner that best suits their topic and intended collaboration.
 
 ### Business meeting
