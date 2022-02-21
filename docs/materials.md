@@ -6,7 +6,7 @@ This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event]
 
   - ### Submitted Materials
     - [New Directions in Computing: Arts and Computing in NYC](curricula/NewDirections/SIGCSE_2022_Hwang_Santolucito.md)
-      - Maria Hwang - Fachion Institute of Technology (FIT)
+      - Maria Hwang - Fashion Institute of Technology (FIT)
       - Mark Santolucito - Barnard College
     - [The Doane University Institute for Computing](curricula/iolace/iolace-ci-meysenburg.md)
       - Alec Engebreston - Doane University
