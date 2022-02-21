@@ -6,7 +6,7 @@ An affiliated event at [SIGCSE 2022](https://sigcse2022.sigcse.org) organized by
 
 - **Wednesday, March 2nd, 2022 8:30 AM - 5:00 PM EST**
 - Rhode Island Convention Center
-- Room _TBA_
+- Room 555 A/B
 
 | Time        | Activity
 |-------------|----------
