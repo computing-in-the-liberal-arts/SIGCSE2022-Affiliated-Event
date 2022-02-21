@@ -1,6 +1,6 @@
 # Innovations and Opportunities<br>in Liberal Arts Computing Education
 
-This page contains links to materials from the [SIGCSE 2022 Pre-Symposium event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/).  Some are materials that were submitted for review prior to the event, others were presented at the event, while others were generated collaboratively and dynamically during the event by participants.  In particular, the session notes are unedited documents produced by participants live during presentation, discussion and breakout sessions.
+This page contains links to materials from the [SIGCSE 2022 Affiliated event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/).  Some are materials that were submitted for review prior to the event, others were presented at the event, while others were generated collaboratively and dynamically during the event by participants.  In particular, the session notes are unedited documents produced by participants live during presentation, discussion and breakout sessions.
 
 - ## Curricular Innovations
 

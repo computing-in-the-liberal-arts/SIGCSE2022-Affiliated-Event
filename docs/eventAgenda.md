@@ -30,11 +30,18 @@ Event organizers will collect links to content created in each session and add t
 
 ### Curricular Innovations panel
 
-Panelists and topics will be posted following acceptance notifications.
+The Panel will include 5-minute presentations followed by Q&A on the following topics:
+
+* Helping Non-CS Faculty Teach Core CS Concepts. Valerie Barr - Mount Holyoke College, Colby College, Union College
+* The Doane University Institute for Computing. Alec Engebreston and Mark Meysenburg - Doane University
+* Integrating Open Challenges in the Undergraduate Curriculum. Giovanni Vincenti - The University of Baltimore
+* New Directions in Computing: Arts and Computing in NYC. Maria Hwang - Fashion Institute of Technology (FIT) and Mark Santolucito - Barnard College
+* Integrating Open Challenges in the Undergraduate Curriculum. Giovanni Vincenti - The University of Baltimore
+* Humanitarian Free and Open Source Software in a Liberal Arts Computing Curriculum. Grant Braught - Dickinson College
 
 ### Curricular Innovations breakout sessions
 
-Breakout sessions will begin by being organized around the topics presented by the panelists. However, discussions in each session will provide opportunities for discussion and ideation of ongoing or potential innovations at the participants' institutions.
+The first breakout sessions will be facilitated by the panelists and will be organized around the topics presented. However, discussions in each session will provide opportunities for discussion and ideation of ongoing or potential innovations at the participants' institutions.  These ideas will be used to generate the topics for the second breakout session.
 
 ### Selection of Unconference sessions
 
