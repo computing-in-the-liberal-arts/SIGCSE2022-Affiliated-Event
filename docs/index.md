@@ -37,9 +37,11 @@ Northeast Region Conference [CCSC-NE](http://ccscne.org/conferences/ccscne-2022/
 | Time        | Activity
 |-------------|----------
 | 8:30-8:45   | Welcome and Opening Remarks
-| 8:45-9:30   | Curricular Innovations panel
-| 9:30-10:00  | Break
-| 10:00-12:00 | Curricular Innovations breakout sessions
+| 8:45-9:30   | Curricular Innovations Panel
+| 9:30-9:45   | Break
+| 9:45-10:45  | Curricular Innovations Breakout 1
+| 10:45-11:00 | Break
+| 11:00-12:00 | Curricular Innovations Breakout 2
 | 12:00-1:30  | Lunch break on your own
 | 1:30-2:00   | Selection of Unconference sessions
 | 2:00-4:30   | Unconference sessions
