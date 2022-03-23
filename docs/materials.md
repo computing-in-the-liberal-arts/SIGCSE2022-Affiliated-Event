@@ -18,6 +18,10 @@ This page contains links to materials from the [SIGCSE 2022 Affiliated event](ht
     - [Humanitarian Free and Open Source Software in a Liberal Arts Computing Curriculum](curricula/OpenSource/index.html)
       - Grant Braught - Dickinson College
 
+  - ### Panel Slides
+    - [Curricular Innovations Panel Slides](https://bit.ly/AM-PanelSlides
+)
+
   - ### Breakout Sessions
     - Session Notes - Will be posted after the event.
 
@@ -35,7 +39,10 @@ This page contains links to materials from the [SIGCSE 2022 Affiliated event](ht
       - Jim Teresco, Siena College
 
   - ### Unconference Sessions
-    - Topics and session notes will be posted after the event.
+    - [Supporting Computer Science Student Mental Health](https://docs.google.com/document/d/13dGOKm6QgW0OuGepiwfmP2tc4IR0iJaLMw5CRqx1I8w/edit?usp=sharing)
+    - [General Education and CS](https://docs.google.com/document/d/12PbLYSSj6cj6UQNdq15D53Ky4EIwMFdHHrdSkic3-L4/edit?usp=sharing)
+    - [Cross-listing Course - Challenges and Opportunities](https://docs.google.com/document/d/16Ua1YkIBZPcPNOkTHmdviDi6jnoKBnYd-hSYDOLwsm8/edit?usp=sharing)
+    - [ACM/IEEE CS202X Model Curriculum](https://docs.google.com/document/d/1z8UV0kBNLuPz5DeXM1icrGrllmrTidAvL2MI0xniTP0/edit?usp=sharing)
 
   ___
   ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
