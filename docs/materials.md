@@ -18,12 +18,20 @@ This page contains links to materials from the [SIGCSE 2022 Affiliated event](ht
     - [Humanitarian Free and Open Source Software in a Liberal Arts Computing Curriculum](curricula/OpenSource/index.html)
       - Grant Braught - Dickinson College
 
-  - ### Panel Slides
-    - [Curricular Innovations Panel Slides](https://bit.ly/AM-PanelSlides
-)
-
-  - ### Breakout Sessions
-    - Session Notes - Will be posted after the event.
+  - ### Session Materials
+    - [Curricular Innovations Panel Slides](https://docs.google.com/presentation/d/1FMN8h-bvqqiqxpdWIvUhbN5Jr5xof-XnzKvN06fJnGI/edit?usp=sharing)
+    - [Breakout Session Notes](https://docs.google.com/document/d/1RIOOcQAOGXzsPnPDgkjGzv8cVgnjBuewbJil7eY3w98/edit?usp=sharing)
+      - Panelist Breakout Sessions:
+        - Helping Non-CS Faculty Teach Core CS Concepts
+        - The Doane University Institute for Computing
+        - Integrating Open Challenges in the Undergraduate Curriculum
+        - New Directions in Computing: Arts and Computing in NYC
+        - Humanitarian Free and Open Source Software in a Liberal Arts Computing Curriculum
+      - Breakout Session 2 Topics:
+        - Relationship of CS to the liberal arts
+        - Open Source in the Curriculum
+        - Logistics of a Computing Center
+        - Computing in the General Education
 
 - ## Unconference
 
@@ -38,7 +46,7 @@ This page contains links to materials from the [SIGCSE 2022 Affiliated event](ht
       - Amanda Holland-Minkley, Washington & Jefferson College
       - Jim Teresco, Siena College
 
-  - ### Unconference Sessions
+  - ### Unconference Session Notes
     - [Supporting Computer Science Student Mental Health](https://docs.google.com/document/d/13dGOKm6QgW0OuGepiwfmP2tc4IR0iJaLMw5CRqx1I8w/edit?usp=sharing)
     - [General Education and CS](https://docs.google.com/document/d/12PbLYSSj6cj6UQNdq15D53Ky4EIwMFdHHrdSkic3-L4/edit?usp=sharing)
     - [Cross-listing Course - Challenges and Opportunities](https://docs.google.com/document/d/16Ua1YkIBZPcPNOkTHmdviDi6jnoKBnYd-hSYDOLwsm8/edit?usp=sharing)
